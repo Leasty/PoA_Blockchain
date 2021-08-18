@@ -16,7 +16,7 @@
 
 * copy the public address keys and store these for later use.
 
-![node_image](./screenshots/node.jpg)
+![node_image](screenshots/node.jpg)
 
 ---
 
@@ -62,21 +62,21 @@
 
 * Now click on "Keystore File" to connect your wallet. Navigate through to your Blockchain-Tools folder and to your node1/keystore file. You will also need your password again.
 
-![keystore_image](keystore.jpg)
+![keystore_image](screenshots/keystore.jpg)
 
 * Once your wallet is connected to your node1 address, you will be able to send ETH from node1 to your node2 address and have the transaction validated on your blockchain!
 
 * Alternatively, if MyCrypto is not responding well, export the private key of your node1 wallet from the drop down menu in wallet info and import to MetaMask.
 
-![wallet_info](wallet_info.jpg)
+![wallet_info](screenshots/wallet_info.jpg)
 
 * Sending and tracking transactions on MetaMask is easy, just send to the public address of node2
 
-![send](send.jpg)
+![send](screenshots/send.jpg)
 
-![where](where.jpg)
+![where](screenshots/where.jpg)
 
-![sign](sign.jpg)
+![sign](screenshots/sign.jpg)
 
 
 
