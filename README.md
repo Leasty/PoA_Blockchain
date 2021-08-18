@@ -16,7 +16,7 @@
 
 * copy the public address keys and store these for later use.
 
-![node_image](node.jpg)
+![node_image](./screenshots/node.jpg)
 
 ---
 
